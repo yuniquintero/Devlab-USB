@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+
+body, html{
+  font-family: 'Rubik', sans-serif;
+  background-color: #E8EFFD;
+}
+
+.bg-dark{
+	background-color: #1c2331!important;
+}
+
+.bg-red{
+	background-color: #df252a !important;
+}
+
+.heading-red{
+	color: #df252a!important;
+}
+
+.main-btn{
+	margin-top:20px;
+	border:none !important;
+	border-radius: 2px !important;
+	font-size:16px;
+	padding:20px 30px;
+}
